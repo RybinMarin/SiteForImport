@@ -1,6 +1,6 @@
-*.html_old
+*_old
 
-*.png_backup
+*_backup
 
 tmp/
 
